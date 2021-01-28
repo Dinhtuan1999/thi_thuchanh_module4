@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b6fbd010-98ee-4763-a0f4-b3be374472b7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/email-validatio/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/task_manager/resources/views/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/task_manager/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/tasks/resources/views/add.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/tasks/resources/views/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/tasks/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/thuchanh/resources/lang/en/messages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/thuchanh/resources/lang/vi/messages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/thuchanh/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/thuchanh/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/bai1/thuchanh/resources/views/user.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/app/Http/Controllers/BlogController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/app/Http/Controllers/LoginController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/app/Http/Controllers/LogoutController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/app/Http/Requests/FormExampleRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/clndr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/jqvmap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/clndr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/jquery.circlechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/jquery.vmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/moment-2.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/skycons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/public/backend/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/cities/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/cities/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/cities/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/customers/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/customers/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/customers/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/customer/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/clndr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/jqvmap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/clndr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/jquery.circlechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/jquery.vmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/moment-2.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/skycons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/public/backend/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/resources/views/notes/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/resources/views/notes/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/inote/resources/views/notes/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-blog/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-blog/resources/views/post/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-blog/resources/views/post/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-page-view-counter-using-session/resources/views/index.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-page-view-counter-using-session/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-page-view-counter-using-session/resources/views/show.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-web-login-logout-using-session/resources/views/blog.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-web-login-logout-using-session/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/laravel-web-login-logout-using-session/resources/views/login.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/blank-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/charts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/compose.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/animate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/clndr.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/jqvmap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/general.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/grids.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/a.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/i1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/i2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/i3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/i4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/img1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/lock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/tick.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/images/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/inbox.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/Chart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/classie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/clndr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/jquery-1.11.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/jquery.circlechart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/jquery.nicescroll.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/jquery.vmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/jquery.vmap.sampledata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/jquery.vmap.world.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/metisMenu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/modernizr.custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/moment-2.2.1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/scripts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/site.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/skycons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/underscore-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/validator.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/js/wow.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/media.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/tables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/typography.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/validation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/public/backend/widgets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/resources/views/agencys/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/resources/views/agencys/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../model-3/testmodule3/resources/views/agencys/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/src/controller/StoreController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/src/model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/src/model/StoreModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/src/view/add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/src/view/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testthuchanh/src/view/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/baitap-CleanCode/TennisGame.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/baitap-CleanCode/TennisGameMain.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/demoMVC/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/demoMVC/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/demoMVC/src/controller/BookController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/demoMVC/src/model/BookModel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/demoMVC/src/model/DBConnect.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanh/demoMVC/src/view/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/baitap-quanlithuvien/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/baitap-quanlithuvien/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validateaccount.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validateaccount.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validateemail.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validateemail.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validatesodienthoai.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validatesodienthoai.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validatetenlophoc.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/battap-stringregex/bt-Validatetenlophoc.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../baitap/ttt.php" beforeDir="false" afterPath="$PROJECT_DIR$/../baitap/ttt.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/img/todayweek2-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/img/todayweek2-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/img/todayweek2-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/img/todayweek3-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/img/todayweek3-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/img/todayweek3-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/src/model/CategoryModel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/src/model/DBConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study/src/model/DBConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/src/model/LibraryModel.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study/src/model/LibraryModel.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../case_study/src/view/list.php" beforeDir="false" afterPath="$PROJECT_DIR$/../case_study/src/view/list.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test.php" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/composer-psr4/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/composer-psr4/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/demo-mvc-manager-bill/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/demo-mvc-manager-bill/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/html/css/icons/material-design-iconic-font/css/materialdesignicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/html/css/icons/material-design-iconic-font/css/materialdesignicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/html/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/html/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/html/less/icons/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/html/less/icons/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/plugins/bower_components/chartist-plugin-tooltip-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/plugins/bower_components/chartist-plugin-tooltip-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/plugins/bower_components/morrisjs/spec/viz/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/mvc-case-study/assets/plugins/bower_components/morrisjs/spec/viz/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-composer-psr4/vendor/composer/autoload_static.php" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-composer-psr4/vendor/composer/autoload_static.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/html/css/icons/material-design-iconic-font/css/materialdesignicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/html/css/icons/material-design-iconic-font/css/materialdesignicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/html/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/html/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/html/less/icons/font-awesome/css/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/html/less/icons/font-awesome/css/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/plugins/bower_components/chartist-plugin-tooltip-master/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/plugins/bower_components/chartist-plugin-tooltip-master/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/plugins/bower_components/morrisjs/spec/viz/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/assets/plugins/bower_components/morrisjs/spec/viz/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/connection.php" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/connection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/routes.php" beforeDir="false" afterPath="$PROJECT_DIR$/../testphp/test/module-02/php-mvc-case-study-m2/sourcecode/routes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/thuchanh-khaibaolopexceptiontuybien/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/thuchanh-khaibaolopexceptiontuybien/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../thuchanh/thuchanh-kiemtrakitudautien/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../thuchanh/thuchanh-kiemtrakitudautien/index.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ng8vXLyGUv5zHNMvCkaXLdrvOZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/fronend/node_modules/typescript/lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6fbd010-98ee-4763-a0f4-b3be374472b7" name="Default Changelist" comment="" />
+      <created>1611800604284</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611800604284</updated>
+      <workItem from="1611800605511" duration="453000" />
+      <workItem from="1611801258492" duration="302000" />
+      <workItem from="1611801613611" duration="627000" />
+      <workItem from="1611802266193" duration="7111000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

@@ -1,0 +1,19 @@
+.nav-link {
+  color: beige!important;
+  margin-left: 25px;
+  font-size: 20px;
+}
+
+.nav-link:hover {
+  color: beige!important;
+}
+
+.navbar-brand {
+  color: beige!important;
+  font-family: serif!important;
+  font-size: 35px;
+}
+
+.navbar-brand:hover {
+  color: peru
+}
